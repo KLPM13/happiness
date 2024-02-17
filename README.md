@@ -127,4 +127,9 @@ from
       from `reflecting-poet-391612.Happiness_data.2019`
       )
 group by Country
-order by avg_corruption desc
+order by avg_corruption desc;
+
+
+VIZ LINK
+
+https://public.tableau.com/app/profile/karl.lenard.martin/viz/Happinessviz_17081681265210/Story1
